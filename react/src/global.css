@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font: 400 14px Roboto, sans-serif;
+    background-color: #F0F0F5;
+}
+
+input, button{
+    font: 400 18px Roboto, sans-serif;
+}
+
+button{
+    cursor: pointer;
+}
+
+footer{
+    width: 100%;
+    max-width: 1100px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+footer p {
+    color: #858585;
+    font-size: 1em;
+}
