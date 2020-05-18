@@ -1,0 +1,6 @@
+preto do corpo: #333
+
+vermelho da capa: #c8181f
+
+
+fonte : Stalinist One
